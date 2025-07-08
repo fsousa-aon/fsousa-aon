@@ -59,9 +59,9 @@ const fernando = {
 
 ```bash
 ┌─────────────────────────────────────────────────────────────────┐
-│ 🛡️  Segurança da Informação    ████████████████████████ 92%    │
+│ 🛡️ Segurança da Informação     ████████████████████████ 92%    │
 │ 📋 Organização                 ████████████████████     88%    │
-│ ⚙️  Programação Backend        ███████████████          78%    │
+│ ⚙️ Programação Backend         ███████████████          78%    │
 │ 🚀 DevOps                      ██████████████           75%    │
 │ 💬 Comunicação                 █████████████            72%    │
 │ 🎨 Programação Frontend        ████████████             68%    │
@@ -248,6 +248,6 @@ Se você chegou até aqui, já me conhece **A Olho Nu**. Minha porta está sempr
 
 [![Developed with ❤️ in Floripa](https://img.shields.io/badge/Desenvolvido_com_❤️_em-Floripa-ffdb70?style=for-the-badge&logoColor=black)](https://fsousa.com.br)
 
-*Este README foi criado A Olho Nu, assim como todo meu trabalho.*
+*"Toda vez que falta luz, o invisível nos salta aos olhos." - Humberto Gessinger*
 
 </div> 
